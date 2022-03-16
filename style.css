@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
+
+.half-width{
+    float: left;
+    width: 34%;
+    margin: 0% 8% 0% 8%;
+}
+.first{
+    display: block;
+    height: 500px;
+    background-image: url(./images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.first-sec-cont h1{
+    color: #8b248f;
+    font-size: 50px;
+    margin: 15px 0px;
+}
+.first-sec-cont h2{
+    margin-top: 50px;
+    font-size: 30px;
+}
+.hire-me-btn{
+    padding: 10px 20px;
+    color: #fff;
+    background: #8b248f;
+    border-radius: 5px;
+    border: none;
+    line-height: 70px;
+}
+.first-sec-img{
+    text-align: right;
+}
+.first-sec-img img{
+    width: 350px;
+    height: auto;
+}
+
+
+.second{
+    display: block;
+    height: 500px;
+    background-image: url(./images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.second-sec-img img{
+    width: 350px;
+    height: auto;
+    margin-top: 25px;
+}
+.second-sec-cont h1{
+    margin: 20px 0px;
+    font-size: 30px;
+    margin-top: 65px;
+}
+.cv-btn{
+    line-height: 70px;
+    padding: 10px 20px;
+    color: #fff;
+    background: #8b248f;
+    border-radius: 5px;
+    border: none;
+}
+
+
+.third{
+    display: block;
+    height: 500px;
+    background-image: url(./images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.third h1{
+    margin: 0px auto;
+    text-align: center;
+    padding: 35px 0px;
+    padding-top: 75px;
+    font-size: 30px;
+}
+.work{
+    margin: 0% 8% 0% 8%;
+}
+.work img{
+    float: left;
+    width: 25%;
+    margin: 0% 4% 0% 4%;
+}
+
+
+.four{
+    display: block;
+    height: 500px;
+    background-image: url(./images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin: 0px auto;
+}
+.four h1{
+    font-size: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.four h6{
+    color: rgb(75, 67, 67);
+}
+.four p{
+    width: 41%;
+    margin: 30px auto;
+}
+
+.massage{
+    height: 150px;
+    width: 50%;
+    background: rgb(212, 46, 204);
+    margin: 0px auto;
+    border-radius: 10px;
+    color: #fff;
+    margin-top: 20px;
+}
+.massage p{
+    padding-top: 25px;
+
+}
+.copy{
+    width: 100%;
+    line-height: 125px;
+    color: rgb(75, 67, 67);
+}
